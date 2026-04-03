@@ -42,18 +42,3 @@ The full API documentation is available on Postman. It provides a detailed overv
 
 - **Postman Documentation**: [Flask Python API Documentation](https://documenter.getpostman.com/view/36681432/2sAXqqchr4)
 
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
-##
-<div align="center">
-<a href="https://github.com/gayanukabulegoda" target="_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://git-scm.com/" target="_blank"><img src = "https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://www.python.org/" target="_blank"><img src = "https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src = "https://img.shields.io/badge/Flask-100000?style=for-the-badge&logo=flask&logoColor=white"></a>
-<a href="https://www.mysql.com/downloads/" target="blank"><img src = "https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://www.postman.com/downloads/" target="blank"><img src = "https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white"></a>
-</div> <br>
-<p align="center">
-  &copy; 2024 Gayanuka Bulegoda
-</p>
